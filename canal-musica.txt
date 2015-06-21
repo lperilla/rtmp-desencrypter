@@ -1,0 +1,203 @@
+# Musica
+ 
+@ channel
+& name "Vevo"
+& available "1"
+& url "ZJyiPhCRCBJCVXh7w2y7T6gymEMyWesQSXNwx8ayLDLPvvyXYlnY7KHAPTyfj4d8BNDoLHh8f6ns6vgqgpdNCOP//J4PCjXrR/2df+h0rv9Sw3LVJWCt5Q=="
+& image "OQbRwjoT1wIHd0Cga0DTmowmbiC0TpLMaabMNa5qLwzSjh/jAmfKPkbXBDkrBXIB6BoVdMhdzYMmshIjwPB8AoFReLBkVCXM0uejM7SolSw="
+& url_programacion "r+EZ7/NN230S+WDAuKkS+F+nsADtv3N7"
+& referer "IE5jNR5eSPLdAfq2NZL0tg=="
+& isHost "0"
+& quality "0"
+& Version "4.1.2"
+@ /channel
+@ channel
+& name "Kiss TV"
+& available "1"
+& url "0Y6yaGUMvYDhbef/71c6FTSQYzUEudLkpUjY9mMcZbiE7yPh2sDrZ4Vy73K6nPueU2Vk66bByQSt39dt/MPjsw=="
+& image "M08/pH84C/RGzC9OnLgbx975lEAWFISMrv1fiTY4tmT4CQLRjQuePKAUck1bpkKbyMon6mL7423JjBbwl61Qrg=="
+& url_programacion "ha9QUPNsaMiHrFmQHS5X9VeQGrwIQDxN"
+& referer "C5lglDhvy/Fp2gJLmJL7qQ=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Virgin TV"
+& available "1"
+& url "8NxLAkGCvnPbtAU9TZsZZJCO3SnYDrlBGffsjLZn87Lb11ZR759xTN8Jn4yuWRscGLqjm6SSlGCpCNCIyWMEDoABFm69xgYdZudYCv/lij3L/HC2f+RwAzaodKLEi8hKbw7BxCvX/hlY0wyKQ2ovpRQwHDTPApjT1oC+pcNRtHiwgZAxh98E9czm2CjRka6lFZxG2crowT6v5jq1Y2W7JcUivsPCLbWBE4H9T03dOVBLPNU2PxI+eiTr0/YXKYxM+ZWCpFSsw+uGcuc7OK66saBiZZlAyMTJRDIONmvxIOmxAKHZuULukw=="
+& image "uTqyIBFTK2eJvNbGO3mV1L2eMgTsHgiYSEJiAUhaBjjTA0qF9tklB2LBP/dwRqX8y3PkpwWRUtvRLbSGfrmnXKFyRt2cxY3y"
+& url_programacion "9T1ksNd+0w0B4uBz7NMrGRdprN8Odgsw"
+& referer "uSkI9+kKXI+mN/3Sg0WsfQ=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Jazz TV"
+& available "1"
+& url "O1I8KSDwkfKwITRp9FYUaOKxkVrm6TfszglzjfISBPTDzSszZ5jNOcayacU1Ro3bi3xuRFXps7V17bwHSIpU5iEY7nJH+jiASWSBoWwqTL+761gcVy+6O+rdD+J4mr9GP2FnhXT7JGojllieOis4cLyk65//9Al6GCBKvNXRKQBOyapi3QdGUgjS75Aa5ex/KHhx4OVjUutiBc3nD1kr++NosT0iEfE7"
+& image "Z30p+xYmUKgRPqF+57SFUuz1fAqcaijgru81zrB852i0ErWXRvKCMxqm0fWY/ajCdHzbsAGAreT8BwVN7vnZsQ=="
+& url_programacion "jswbAoR6WlIDZI+QkcH38BuCCHJZo56H"
+& referer "txIcijT2WAA1TXF13msyXA=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "EuropaPlus TV"
+& available "1"
+& url "EouVjjifMyMWeJcsmmkmcmb0DAoC+OF4pYilDRA6vR5aEsnBsh+ZlrJFSndqR387UnyXDmMndwDrre3OIexMikosQVFMxg1t1TUsg2v9Cyg="
+& image "dijN4ByioDb/LD3c4ayb6vcGVj5FcuoVFW+OZbC3yZD4POcy8uTjj07AIlHNT6zQWZjmLLwXbcrC89XDxrE6JGFVH6zDI6au"
+& url_programacion "pUsDhX5wgMRvfGR/B7AWsnbq462FduiV"
+& referer "h7HHZCGpCYCFbbwayPzt9A=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "PartyTV Entertainment"
+& available "1"
+& url "DnT+oi8vQvPRisXfqSoasiA8sdyZZou1He43byBdK2eMUfVevP1RD63cYk4Jin1f"
+& image "fDH7PFIcyVqW56DK9eRdo/yX2QwlPVhnqMK++NQHu9icbH7U6DaCrvviLElhZW1SppWVYfQsqangSRUBl/QKcoNhcJMTmLswEk226dFQMds="
+& url_programacion "KTPaFfqjCsrP/xF5lKJZm6V6IxCAWu+v"
+& referer "sdJLp32hSU0kSN5XcKibuA=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Rouge TV"
+& available "1"
+& url "gWhzqZ/SVPJCOHBBy1wygrhUi1SuJwWqJHQG3pphhjMPfhEHQwgMiHZT+a61HEWgJ2N7VKVTzjE="
+& image "mO0QTeZq+L7FhquKAK+uWJVFKr5VTqVEcPl1Ro9UkKrffhcp6q8XpeS5ZWz+7PrNDSZ3KC/2ReZX21qo1P9noRDKEi5KzSjj"
+& url_programacion "5BprEQPmLEgFtLwfTNApORw9RTFPz3gZ"
+& referer "Gh84etF3K/ISj0PpKMaXeg=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "ForMusic TV"
+& available "1"
+& url "b3B7oAMkRdgkU6PU37nHfwrwLi/NvxBiK5gg/2Oxb50JvKsh+puj0g24UEPs270BZ0FZKw5Tj1b8xfwGbPEvUA=="
+& image "W958RCqQQ/9nynCOLgraLC2/hZ/HbeOgMZsODwn7bX+mvYVM4dMYotbA0B72rbCKnjgZOPodfUJQASyDiTrho4IdsrsHO5mh"
+& url_programacion "sqPo1aymWXprC+6CvYDdWIp+KjUHhRe0"
+& referer "jxb5hFCY0f+IF3lWtGnaLw=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Rock TV"
+& available "1"
+& url "1uT9mjRsztJW0rOvICNuv6p9+X8CAMk8ZndrAK+bCX5PaqShT7vS5RIJxYaLDXf20ws1P6+C/xe+iiJqWbPCioQrpoRFQLeguLH5Ry+3dEHV57NO9bebSMV7hmtkAu/crWFvjC0DFjRMT9lAG7fmKoDJEFrxGSsDuOLmrGPO2fT+AaUX/29Ifn7Fpd7eEjfjVZLNBb0R4I8OxsUaKDhF5LQ/Yt9+wT9VhmIab10aknZkFcaIAoK+UVfTgz/qRGeb"
+& image "JHhulP0C1biN6AAZttpnMn42MS1q6nT2oVslfxP0eNcBejT5fsqAR6onPdl0Ecwbyb0Lsis85jf2bMs3jTLa5Q=="
+& url_programacion "sfDh0t06jV4PcBhF6DZw/lRRi+OtB2tR"
+& referer "oiN2umIg6OwD8Xv4sqgbng=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Deluxe 80s Extreme"
+& available "1"
+& url "y5OvRR6Hp0oYH4QOCJ41MvvhSahP077dct+s4LXprziTbyFBm/zRY54gWlgusZ82NALCURVoZ8cp8evrU7JZ+tWgbILJjxkoZkBTtqsFZvkoUbi8OGXmCK56kG7qb7ZVXDlMto1vwu4M/0txNsS8bOcYsHPlV9ev5hkGSXMi3L6S8n+SUkZVy6UIh7XnQIMVe72eNszjY7JFKaVZn3udmMi+9RPABT9oPwqonLpJIH1uOhLAb09/SthUM1WqKOYSVIHAn9GXqXZfiuNb4G0qx4qBDE4XNWmJPwMRXMIjin0JznhOoA+fLiougFCGbX/hSZWUh4to6/X/bvxC4YLNY3I2HDjv5fcLsAQLDOKaQY8wmyn65bW2bslyngyMBsoR0p+y4pxzyqofdDzjnLJFC57j5893X/R7mfdhG0y6D1M="
+& image "iaBhWClG0eiNORAQrBe0o1heDzhYo0r7BszGtFwZaaGELeDWgSa9ha+noNsvWqrgu/L8/wj1z6dHCJDovv0y5L/tcljlgtRwBMDW6MtKlnQ="
+& url_programacion "PY/8AzzIlYLS8Ft7O0nwEE6qxnmZGrxm"
+& referer "f9QCGt+jiGlnzrrG11REsw=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Dance Channel"
+& available "1"
+& url "XBupOPnggoq1VB2B9BYrC+5blLaKEu3DyzbBiQBqDGIAKy0QeDQ3CrfcX+suDXFF"
+& image "kJl2S5csnEhDOs+U+dNe91bB7ZVts0Sq6YdI8Fwt2v63OqDIf7eTuXn6A7Us/iJY2yZJ/oOUHwpZ4axucF8W3EaFs/QKRLZn"
+& url_programacion "BCrNUMephIadnZvRYXEYVtWKnI2VnSim"
+& referer "aOxQrmoCU9KNdC8Y3mX/TA=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "KingTV"
+& available "1"
+& url "0yv3ZNNJeFzCTe605SW5NGHJBJ/vkTQ45x3wcQgj+fRm0rCCEANkLlbNPLdrzNL58/+E4L3nu9550OENgcv7F8VseFtXmIPf"
+& image "BOos/zbvYdv4X0KOsQhu/yeCFzCGs/Jb7uhQ60+vkaJQWzcFXdM4lmZ9GUYI/bbxdwWvKefEoF7ikteMzMQQC6kWNFb8GlwP"
+& url_programacion "kzx8PRxWGxvLewsLA7FZqsiKX+QV29kE"
+& referer "fh4HTueJXGRAFdhxU1NU/Q=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "MFMTV"
+& available "1"
+& url "89cnCL/KRz2nsAgRCggUI0a+YBIrYSDuWf9gE2nsO5SrCB8u1L2Pic0zD/mN1G7EDJPQKxk3ZAo="
+& image "kPySk0o+dcAXFfdYTmBjQvZd5TlM3r8ljh2kIk10tH8ELkJ8Z9zq7KKVIjkp84K9fWo9oQfH/2UmPJHl41flsA=="
+& url_programacion "CVd9L2Sfx7In0kRcy5ITl7xwuqAdKfx6"
+& referer "+mgafal0s0ql+Ti93OUlRw=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "BestSka"
+& available "1"
+& url "ZeQwG6PRV6gqYbJ2Km7Y3qhWvT8HHvNn0Z+XZD2axb9VXtMZw9MQ4ZcU7z8D/c16IHUlEkljkCs="
+& image "H53UyyVekC3ZFf2iCdjv+p/H+5FSX5vOvPXkCIG0XGXi2ZTAl4xrPbBAawaiyFiiXmW79plVrUne7Ldl1Yva/R2bdy40BDJL"
+& url_programacion "fHV2GDdRb4ewPxjqcn44B9HoPtMq1DOa"
+& referer "mj93XOyXAjTw/MQH5zFrnQ=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "PartySka"
+& available "1"
+& url "CzL+itbCfqRjYNAv+yYdXcb/qdpW1T8ojtXOt1G/EFGD9Sko7vTuX57dNz4rOxJptvJUhN9hRmqAXTFqW0tEoBwabAQ/0vdf"
+& image "lfg0oegvn8UPlcL+oyYIAVzp5NBdjTL8VT0ImENOwfwKs8pgAYpC6WwM0KiJbiZmRGOCn7e9reNyrEOKhge+DhZGpici9/cm"
+& url_programacion "UJJKF85Mzp6ksnZkyhMkNhpNTEG9friZ"
+& referer "xy8nraDkCaJ85DHZHoe2CQ=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "RockSka"
+& available "1"
+& url "O1ThiEQsECfcbT5PD8NQHZA9R08pkdCF0JeyCN1gtjaLkeXFQVKtIpJvn0Ye3uQsS1XjrRkaV1oCRil7pRb4GC40EBMWVMzT"
+& image "HZbQSxNMlih0YEB+L/rFUiwAVn6Se9XOt/US9V7QsFEITi/SXMT1EW2buNuF7CwimWzMpXOT3Nw5LLuOp8atHkoMRVxHtbpG"
+& url_programacion "OaEJmwO+bauqLDa6yhfo8AkKD2qKyFdR"
+& referer "TkgS3YqcnQ6YbOdEH9qcHw=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Vox TV (Olds Cool)"
+& available "1"
+& url "gV+pJ/jiha3qzIzm9kfCEfniy+C4SMbrUXeZTJQk7IB36WTvQBX8fU3+nOIJ4Y4QqfqwtBv7nO0="
+& image "kNQznMx0OVCjWrv7tm1icyu3ma4NLIgV3tnqentqAVSsC+bOXJPAu5xryJrm7p8JMvcJ4GYygixCdud3yax4Wy6XBOOO6PKM"
+& url_programacion "yXc3y5SxY6eOKwtmZj8ufkdz80Ah0uca"
+& referer "XrWGrx6uL48/RvmpKq5HgA=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Magic"
+& available "1"
+& url "j6SDW59eyQkG9aMHplGoDFWEpA5EwFh08Qy2eWzpLECDvzta9gIokGoeHYOb+lnLC6ZOqFbZYcH3zt9CqbZ7vw=="
+& image "Q+J0NEj3webGypMCMWxY7ZdGvS1qwUXF6wZWv7I/T1RmJL4RmCZR0dTSdoHssGlqN2fiaWr79TVXOalr+0KvQKNiMcSpZEcu"
+& url_programacion "jEnNEM7KzJH4cUFoAU9nntA4o0KQTU+5"
+& referer "56Pih86+PvfbrVVDLk+j+w=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "Radio 105TV"
+& available "1"
+& url "GgZeqAsaHwyxG97it6o+U9B3hxYBC8JZ2C2Fu7EuGpsFmkKHDACQqaPM8haYF3a0ubgsivs6gVp7wGHuKipbeGXUkOHYV1WX0xISgGcnFwAdvGUm8d+2ag=="
+& image "KB+EC7UdbF7OODV0kUF5+F5Es3EkuaL9YvRQxS+aFozs6reGodRe64Cf14YyxusNeMaLsZAeOi4p5jVygpI3HMNQumFTNDLX"
+& url_programacion "ZbNug6trzoobZ+tGK+mSi/royEGCkRM9"
+& referer "9vMJqDNuO3JO+Jic7483ow=="
+& isHost "0"
+& quality "0"
+@ /channel
+@ channel
+& name "PoloTV"
+& available "1"
+& url "DrPSXkhqintJM+yzVTIzvb76kjDQMEzeQugrbPFZ72tJP7+LzKzk1GThmrv6/myr"
+& image "r/oPUTeeDziMOzoPrs7wvI/ir6vYNllyudjrWbf8V90Wcd6H+zvrBmcpDYIivwsViZb/I6NefFetb4TiHab71A=="
+& url_programacion "+52AH05PgjaecHEYiKcXjQaC8O6wXrYJ"
+& referer "Arfgn9X7/fROqkyqqojf8A=="
+& isHost "0"
+& quality "0"
+@ /channel

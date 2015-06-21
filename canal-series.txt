@@ -1,0 +1,143 @@
+# Series
+ 
+@ channel
+& name "Series Made in Spain"
+& available "1"
+& url "DpSwIxsy32Pp/aMufi4+xX4sNYUppuabfbsLodx9w2H3Z265gNqyuvTuS2Um2FON"
+& image "G9eliDEr0+ohcxy5MQADMjZTtbBbakSPq5f8jUuSTjiypqmBCk4lG1VEE1jLGEb0l8zS7caph3c="
+& url_programacion "qEQIXTuhTbEbSp8HXrzg/GMhJ99xLPfP"
+& referer "99P5lT44PN57zTl8VoViFXvVdurFVMTvAo91s4dUHGgLtP1pjUM0u207+g2zWa7d"
+& isHost "1"
+& quality "3"
+& Version "4.1.2"
+@ /channel
+@ channel
+& name "Canal+ Series"
+& available "1"
+& url "8GvjxMkVo1vQQ3f66tn7owjRQdpj3aFVtIFTvRG9+jRnDbJ+UY9qJ4YSI9UbaftgftsxPbPhPE7JU3alyhgvTg8w62nvlB8rk/hrdAIrWn/TiNisCXwB7XKzL84eqm6b"
+& image "IUNCWRq1TtsSyfzJiMZWZ2DTKKxyGYXsvaMzJc3YHs7jq9Ue5BStZlzUAvoke0ZXq3obB9DIgpM="
+& url_programacion "QsRCPMhDWg5/C1jz3DJaDmfIKjm2C+kreqVdtJ+UP+2B++pksUPKixLhkiIPoO7LmPP85qnLBwyFGaFdAM7dqJN9i97FJQHK"
+& referer "Q79vgK7VE/B17C2b/p2CiYzGh3p1vuUcovCFGn3ZsLMIHiU8b+d22O2uZaV/r89tGUHElKtuZbg="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Fox"
+& available "1"
+& url "gPOttdS1uMwYgcJDqkefpGVPLV3VCWdgEb97/CEPvoaveXL2T/vDYkutApCxcESWM9Qxi04GJmKjp1AH9ZHEYlSUaTPnHH96uP9wA7cmvzBbt1T1+ZkJHp5cQWZNuDMq"
+& image "dhQrxDml9f6Nq2egsd+4YvgjHBnkXt+sYaHi/hXgV6FX4XEO1jC+HSP482CHmkX6i/m7LBDEOFXbodA3bokW4A=="
+& url_programacion "4D5bRsqSxISiKQKg3a4CKdV3n1DFZGcby83YHDY1Agmjt/bKPFvOfRIksypr6BT76jIpktLTjVpqS0vjAojfrQ=="
+& referer "CN8rvnoV+J3i5A669GCLQeBhSEhHSf3Z23lVvXN58Dk6fH3FEMNhnK+iHG8aCFempjOkJTJDvLDsbw8GlANAtg=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Fox"
+& available "1"
+& url "qVPVQY3j7Fcmo96WjLXTnQWWe5UfIQ46i03mYWvJBy52YFrcZTGfyUdVi63MPC7MocQq3dixHn7YeBhg91p6ewjAEl5rC423sL44NaKq7JAvdhEdwcpNmtp2MDw9p+8K"
+& image "JKeo4SeWfipusfVyHllGqirpM3ZHI7MvdyOPEslJdu10Pb2U2zhemOLhhRIuJbsw8CyJS7nwoEQNGIR+oKdgqA=="
+& url_programacion "GhSlNfL2cZ3UTsq4f1Acjy8cVy+queYdNJNT7UZeX9Y7QWPhZaHFgcrFckgWr40PqUq8ZY+12iQ7sz+7ONusGg=="
+& referer "gWdvSIS/pMOmGCLWn/zyGutHhCSLvPLoPobcjUctjxZtduz76VHeTL4c/aKJntsk"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Fox Life"
+& available "1"
+& url "qGIbbGxv1E5C0h8fhVVdUVMRT26AWmnk69xFjwyRECST9BcaPBJ0HRYseKe9qix1l6/KI2POg3Zv1Ljbe1ehc5rOxdWe/h7CehlOHyp04aabMK4sKK1acG5IexjkshMf28KGMIa/i+M="
+& image "o5OuM+TyBesRatQbjVlEKUmjuOKXTrIF0GvMxR0UgW3HPkz8V8UMmtPEK1ogmKOCPu7Nxz8LzF0="
+& url_programacion "W7WS1C6iycmo1uK8Pqh+cEPCbk9/EDIeIXG5EAknwTMrsukQUE2P7O6udPln8jGvkyYny+x5YEWL3ygibG0flJpyILXwriiw"
+& referer "B/z8OefUO1dAwjvH2lkxUKgu1xHrfGi1dupt7Yp95iaespRIzHwZiePqj5ErGAdvhrzIKhu9jwdLSffYGbNRNQ=="
+& isHost "1"
+& quality "4"
+@ /channel
+@ channel
+& name "AXN"
+& available "1"
+& url "isWmdbUH3oeUVFb90v+e8zzHxl3Hc27NXKS8b+o22hpkpKcQchULiA9sMlKB+fgCdJ/vKNndRgh6yfNu/B0vXE0JwrKJH7EaPEawiMo1CZ39Hg00r20xcJrKiX3YFgMM"
+& image "Q/k+use0dQeLXKLtYlwN4tUBpvBrpwW8ymBS4+Mb2YWn7XEv9GFQw021pvJuc8GXp2KUxecCkIHnjzcW0idGEg=="
+& url_programacion "3MVmplX5DOgvJBE7j2VkuMBA8T96n30lCl5MNNNk7MGxXaUg+2mo0i/5qbuITVHU/qr7JhzJn77wYI+Q/qaIPA=="
+& referer "S+0RBt9ig50hbT5/Im8P8BuyEHRpqtR35PxUbKgpuHMpAuM+GawoGIA8+YFB5IQN"
+& isHost "1"
+& quality "4"
+@ /channel
+@ channel
+& name "AXN"
+& available "1"
+& url "0+9ucCLGUcHuRVaIuM2NiI4HbWh3tObUzbxRtOdGv+Z3dwyMv9/xnRnZ+5Q7e5KVdnkEBbjN+HcWyDq6lrADn33t1CFNLuh/PyWUooz7qieqhNHcMVtUOtMcFS5fg8N4"
+& image "91yqlWKznvR6Uz38ze86HSphGgHEIEoOwGa65AKUOWcoLJuptniCSWB2k1db/S0eaVNb1bZXtBSKTiBbqzr9KQ=="
+& url_programacion "Vvf4ZCJ+r7psaY/ufTSzm1U89JaUsbnCO27GSQUs0vT7XxsHfcuFu+lVgr8+n10Yvi2vjq0qkQ2Ak8EQmqoD8Q=="
+& referer "vfbA/sA+9vtqFH+Z/Cao2JcXscOYSk46rvYjhZBJZpuTkHgqi1S8xn7HFoaZezVlPRG+Pq1PyfwiHhAAZpwUDw=="
+& isHost "1"
+& quality "4"
+@ /channel
+@ channel
+& name "TNT"
+& available "1"
+& url "bEq5sYdyZk38d/1MYjFoQkbobe3pGK4xmjjBXq6eSbNZH+MYbMnayli/66+vW1SRPH5CJQEQPW7onTLi0gDroPXWnw8zi6pYgZ26DGoRTyuW7uhbU48T+YCGwEQqQk2u"
+& image "YaPMQQeO8im7AeQwykWstA3pMmaz9FVSLI5lo0wpHgahn/3rfnclMcGxqNslb72hyzIvVcLhkJyFpjtDNPVedg=="
+& url_programacion "wc/6cEEQgNCOnEiXZ3YHqW3ncfNgRw4Mj4+PbOizXpqkrpZ71+1B1xAO3JAQu9smc41eXmS+mwMxpJDjsDX7iQ=="
+& referer "GsFq4sZth/Q2c3m4UvpJ7hgzO6P4/tPsyXkWdR4swXtUKaXqS2KyJ7CF1m8wCW8i"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "TNT"
+& available "1"
+& url "NFle+5gN4C8Pxhfk+th972f3s2EbNnSIwfer6Gd9YKkdu/Qyks5T10jQW58TxWdCCj3Eb0JMJrKyxq7ljBkIqT4cH8j/GZE2ck35wW1hQUUhNTZhMIXWlPuKAcxqCpZD"
+& image "86xWRhmjMwWMF+ZEyHt44OHq8OT5vYoUjl+D8pslhxEJkzjHcpvmBIUIFg07TCgViQWUx2UAEVqk5buhFAKaPQ=="
+& url_programacion "PeCOnhi/Uh8AreoVHLWVYhEniIGPNNW9L1ZfsB08dXQUOKJPSaJmc5IMjksFLZbwmsYJrRjnas/JxSIfJSLxUQ=="
+& referer "Z4tRTDdIymBQmjyvBhewTKeezDcOC9jMwer36yJ821yOC4TFYuBsYM5Qs4d9lPlLIZsQbw31AN/4IRxazzO8Fw=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Syfy"
+& available "1"
+& url "keM4rOwIhJaVmSbRS7ppK3pyUX6Gdj8o9AVJx6ZCBbjdIJtSYXYG7CbK3I3WIYknzE/Zz/FzKtzk9iVG//vm4StqMsy9MzBx/o2twkoKwhY="
+& image "gmkfgSh2vcwOzQP4nV9Eq0vONgVcvWx2a94E8JRKcDVUiS0pW8wwmjlkAKLozLwB"
+& url_programacion "BGztzKnCoSO9aJhA9PsE5y4mzaLNaFMY8WgPsfuqbsFwhWgE9vcboqGIOwA8hbzGmU8BQ9hgyrgKHdxky0UKPg=="
+& referer "HNb8mQ9LemtviGWTp1CG9sGkgy+EiT4nRVIA7HTda48rhQD8/2Xl4Elz80lDYS3T"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Cosmopolitan"
+& available "1"
+& url "uuNIOtifQTRaKlNJ+GHcmIA4yjSniyKGG0Zkz4AZMraM1tC7bmHDfUGvYfp9fpGIJ4TJJdg00/rrIHXSVIrI5zQKsEBV6PsHBoj/LwYQKf6f8cGWa8f3qQ=="
+& image "BKdQIlijGC1BSdiuAldmNZqZPImY0qyv8MTDfH/7ml9tS7AcH2x49WoCmqYZfxWeiSnwx/mX5Kf8+40D5T4qtw=="
+& url_programacion "lM0zSAHFbLsO1q4Oqv/nVKqFdRqhgqzhnf5R3cfdSk4k9T3tZiNO7hClTHk19s6OMOA9SFAyvgLQ3I3StLQdFEa4HBiHDWC5"
+& referer "X5sx2cXq80Cwqc+wBBx6wyIyFLuWM7Co9Ny4K1uGnrckxu3m6Yu1vELO1eoWdyvZYJXKJb4ocmw="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Comedy Central"
+& available "1"
+& url "jgyh8WErf/i/AFSqChB9NI6/mhOQ+5MP2hDtNGXCbV8V05LZgMBw2hEbZGxPHQa9cttBqEj2jtNetuszSqPtUOjsPXD8Tjf5VlZvMK/uwoNuK2nJqbClwAtdNFarczFZ"
+& image "dxFt1JWpZCkIxZnrdoTiuHJAdT0FYRpeRhCcu7L4vK4OoBkhRjfDNZX94PAhltiMzM66aOgiEq4uCaDsAhsYYw=="
+& url_programacion "3zqAxaqARAoc69F3kUunn3st0eLFiYMS4XnRxjBckzl0hjnFG3Qp4G66aXU6tdz3ZdyRBrWixm/Px2FnSXK0uUwHT4+QlXGj6kin2vBZmtE="
+& referer "iJD4iKMA2bJphqY0IL/40m10xZLBUS4TZmjceTKdEh9sQ0vVcQCRkdmNODof/Es+cFxeuxj4jm4hTSw8y6EsOQ=="
+& isHost "1"
+& quality "4"
+@ /channel
+@ channel
+& name "Calle 13"
+& available "1"
+& url "zIWnM+QTfPTIkA8780BT+on1ifaoVdjRwRMFHZOax/xrdDLyvDCTedX1KHdaSBM0kcUQgnAqreTqKXJ0iosNDBuIBzYxLE8EBqJ79zMZv5sKvOt2RoCIwA=="
+& image "ewABMjhDKTSJ2LZuRbIq+CVcfgbtDEFbnhFICFQwbRQ/kIeCK4DaPL8KiiNhKiyUUVLK7PYFTrM="
+& url_programacion "T7MNoP28QkXFtPUnm4zB7npVuESbsH+cuvv+HOKn4zZlIWbsl82ImxbfIR6F8SXj1vh1EasOBmTmQGG3PysiIryxnN7av8Vw"
+& referer "dQeLWQWLVT8FxzQ8a1FKKRQxeqU27kuYwWBNfeG6W9YIYg6Q5rXv2N/1b+xArChJBd8rTC7I0jc="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "MTV"
+& available "1"
+& url "qLgie3HPjDacvsJlNa6lq3zt4F02YEd6rNLMlFe4Ia/nDtPXejGggjeuV+GP8HbBIXDQyBXCBzP3o1n9tsNAHWgU46Dv8SOW+pkTSVQQsiL6KGGLVXk4nQ=="
+& image "+2h5jlw0AwwohkH1V8qFdsL5pqf/nUVZ9Uz8AepkOiEdOFpwwc7MUehqCoDk8NDM"
+& url_programacion "cvhNYZ39L6mEyXJX+H6SUfbhpmNg7JDzC9MYfylHSx72ml2qOUzGSoRvh2B0xB32JsQ3OYkeg9pZnhbcPXD/hpPo2OSYPTm2"
+& referer "CW8lnpR7nNHqfYbyP4djDv4tFBwqknUSqWV1o4ggo3dMztSPu05fAvRkiMutBsV7LvYTIpUnZA4="
+& isHost "1"
+& quality "3"
+@ /channel

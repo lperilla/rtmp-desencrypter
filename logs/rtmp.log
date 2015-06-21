@@ -1,0 +1,66 @@
+21:09:13.496 [AWT-EventQueue-0] INFO  org.lperilla.rtmp.desencrypter.gui.MainFrame - -------------Iniciando Aplicación-------------
+21:09:13.509 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.509 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.509 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.509 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.509 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.509 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.510 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.510 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.511 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.513 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.514 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/rtmp-desencrypter/target/classes
+21:09:13.516 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/org/jasypt/jasypt/1.9.2/jasypt-1.9.2.jar
+21:09:13.550 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/org/apache/logging/log4j/log4j-api/2.2/log4j-api-2.2.jar
+21:09:13.566 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: org/osgi/framework/BundleActivator
+21:09:13.568 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/org/apache/logging/log4j/log4j-core/2.2/log4j-core-2.2.jar
+21:09:13.577 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.577 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/core/type/TypeReference
+21:09:13.578 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.578 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.579 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/core/type/TypeReference
+21:09:13.579 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.580 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.580 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.581 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.581 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.582 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/persistence/AttributeConverter
+21:09:13.597 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/lmax/disruptor/EventFactory
+21:09:13.597 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/lmax/disruptor/EventTranslatorTwoArg
+21:09:13.598 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/lmax/disruptor/SequenceReportingEventHandler
+21:09:13.600 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/lmax/disruptor/EventFactory
+21:09:13.601 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/lmax/disruptor/SequenceReportingEventHandler
+21:09:13.602 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/lmax/disruptor/EventTranslator
+21:09:13.618 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/core/type/TypeReference
+21:09:13.619 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/deser/std/StdDeserializer
+21:09:13.619 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/ser/std/StdSerializer
+21:09:13.620 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/module/SimpleModule
+21:09:13.620 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/ObjectMapper
+21:09:13.621 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/deser/std/StdScalarDeserializer
+21:09:13.622 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/dataformat/xml/JacksonXmlModule
+21:09:13.622 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/dataformat/xml/XmlMapper
+21:09:13.623 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/ser/std/StdScalarSerializer
+21:09:13.624 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/core/type/TypeReference
+21:09:13.625 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/deser/std/StdDeserializer
+21:09:13.625 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/deser/std/StdScalarDeserializer
+21:09:13.634 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/jms/MessageListener
+21:09:13.637 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: javax/mail/Authenticator
+21:09:13.641 [AWT-EventQueue-0] WARN  org.lperilla.framework.core.reflect.ClassFinder - java.lang.NoClassDefFoundError: org/osgi/framework/BundleActivator
+21:09:13.651 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+21:09:13.678 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+21:09:13.716 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.717 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.717 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.717 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.717 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.717 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.718 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.718 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.719 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.719 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.719 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/Documentos/workspace-luis/core/target/classes
+21:09:13.719 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar
+21:09:13.847 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+21:09:13.855 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+21:09:13.876 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.jar
+21:09:13.915 [AWT-EventQueue-0] DEBUG org.lperilla.framework.core.reflect.ClassFinder - Buscando clases en el directorio: /home/lperilla/.m2/repository/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar

@@ -1,0 +1,73 @@
+# Infantil
+ 
+@ channel
+& name "Los Simpsons hasta las 2 a.m."
+& available "1"
+& url "UbwNNZu5ZhvmUE+rchHpjKPBUsPe+gp0TY9Y7z+rxwbnM6ZyjyLlZEK2vrmT0nptNVdfI1OSJxldjxGapeR59Bgc5/Z67Qdw3JRBwQtN+L88SFNhzQdqdV/BLfIFw6E/"
+& image "sdpZUV/EittNktWjMJpQ56YZbCzm8nGXVesYwb7k6aofSGtcpWwwz+x+jWT70ofS7goCFFLs2MZgYxqseJd3HmMge0dTYKo3"
+& url_programacion "W2iiltMbdc+dT8ztfJkQkVC7Oy4mDvXd"
+& referer "w+KGO7gUVFJn/xnSyo46Zgd2eMgKNSipZ2GfBCbY3ac="
+& isHost "0"
+& quality "3"
+& Version "4.1.2"
+@ /channel
+@ channel
+& name "Disney Channel"
+& available "1"
+& url "ATzAdJ/2bX/m3KRmS6YpFvWU31ZcBbmHJfjw59G4FxNdD9JOA4mh8QUF0hUZGpu3TOvluAkRN+NPPswqw7y8IvmieRS3rLInCxRiKMVUwjZ+PPuq2/+Esw=="
+& image "uqqxBgHd1w7ZNE3AD96fsw3D/0LjTPBu+WnCkWE6HeS+K+UR535bp/9cOS6ga5VruhR1XSDl/KUOuZ9i7Q6RkQ=="
+& url_programacion "HS2f+ANxMcbuqnRTp3kEM26uu8dX4qumUX4vnhZTEioMnoF3s2qQkbLY9akGOz1lCJAOjU9iwZDjuBrq8Y1kuLz9Da1wb0jOmpkqbSf7Grw="
+& referer "8AvqsTQGkedc00Fzlgd709nHzWbaaCtHiGhocRv9ZP025BxdW2xsvU2t2q+qMs7StFwkSHuXvPUle9hc5fGSrknhAHZVX9ND"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Disney Cinemagic"
+& available "0"
+& url "P2JBcMm+cbudlCLF771RKyvUaeiVJnhN0qbKWz6TZ+WTwn2pSNlXqxEfRmYBV9VV"
+& image "YIRTetVfGQrbLeygTEA9yQzPgNecugadLUnC1wuN853yCp93xxTymxD8mZcjRRQQ5gq8PNfG5GEV9lmg7SU+lA=="
+& url_programacion "MhrdKVbyfxEhl0rnZBtRS209h8FHyavU"
+& referer "MZjzZ0Vt72TuEE9ISPXjkIYEHw5pTsMNyVhPi7zvmkMpzK9UsAIpu/xeDrFXM92+"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Boing"
+& available "1"
+& url "kgpaLn3l6ffChB6n8l4D68EBZfwlchEpFpQ1uCKZderMz33jqXHfekRwkCYU6cfp1WOdoxB1U82B4FDLgJKRVNpARGufQxDJ0Z64B6QcXkk65cAVGGXHcw=="
+& image "yVgl++rRIA4oSv/CM1hvlerl4ZJjcPvJAlmpcuY1uJdppwl/6VfvHuB7QxltpLy+9rSeD6SyuIs="
+& url_programacion "gNwhiMU++jwLU85sWuqrE63gkl5wtzXITxs7AfKuieep16d2u8PDGq5X3YbmuP+7WuhQ+aYL+N/bspVPsvaVV8qRas4fwu6F"
+& referer "ZJiI2dJCU3saDlDZoNK8OkXUy272llNKdKosDQs/Co96Zcq80QflVt+pHvW4j6FOwKNwp39Agoc="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Clan"
+& available "1"
+& url "Nk1Uph8Oshh6RqGXVLKipuR0vo/9MM/ZsiImdmSoYrguF1ZbDOGz+s35/eW1m4PnCk/uOixL87sWPhWlaTozROBPTbsqro+e6aLwzZnavrlNLLUZpQM+Lw=="
+& image "zrjMY7kyeeIlqDY6W4WDYnD4WcJAPBHYPTfT0e2TBB1OJJfPEU7khyR6d/XK2zqV6/z6MoSRUdg="
+& url_programacion "JJ1efT0UqmfwSYqAexN/YdasDumEPhhS2aBLAykrLYq48eTs0J6OvTBSo4ZLIOP7ucHHkWiGb9m0IkjAnPvlqPNFp/NEeKeX"
+& referer "DLFC/yu1ebQH6Wj+qigzodpbTzY86yzCmv1FH3+s/LPn2IZEOUDLNlKsvwtmlWt3qrJ06ZTR8VxE7QT82pj5cw=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Nickelodeon"
+& available "1"
+& url "WbUFbHB7HnkrMWb+luJNlisdM+i6/4FDmcGxjKtYgXALgdZvdDkmLV7LIwgtpqdTuYUj5zAMVKoQonGLa0niU0dLeBwjvT1NpDZusoqG5HZl7a26p6lsRw=="
+& image "OAebFTQZXdFb7oGQTYP2B9wZXB5Qax9aNz3LH9bu6Plslile7eKT8o33lZSYTynz4asJ+dPdsrc="
+& url_programacion "ETTb6Tdmtz6MNsIcnaD6iLIxa1QadT5vsC2b4WlaiCSR6/hYmGd3XIo9Oj6rbJPRfmC8v8Ln2aZOgxO5uFdqS09wm8my9M9s"
+& referer "raDD68k5h0pFccuKPJcFO+Kg7LaKAfdPKhGtDUk5RnpIZp6EeDK8fRGujOP4Iu/RhLDZGn0sg4A="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Nickelodeon Junior"
+& available "1"
+& url "Xb8AiquF+H05IynuJ6pwyyQh2UFu+sGQE9bHvl/tF3KLM9q6Hwa36PU+zJCiNL4P9fKQhKXyXelUmGIrn3rx40/EpzK/6WUHW4GL6u4X9tohhZcBULzZSQ=="
+& image "z4KDs5uT59/Zb0+ix5g6eLehBHIk21XBSgJJSSruc2JCafTajW9+V16JBvB9R5ZjvjhB3GtxB2kHU0icNGf3hNVCkoEVdgut"
+& url_programacion "uRI+kfwYYKMVHS6qd98XHkFHB5mAGMwjAbTcnUowbPW3WPXij/SHQK0folyhncT1j+QVsPZgZ0LUSEyxWZr95opt0F1Dx4Ak"
+& referer "azw30vUUm8dQLqV/oZeOHA7hoPkuu/cXb1fTh7GmU2XjpNFefl4slp25PE+AAMnNnlN4C9K4GYZScHOELsd8Qw=="
+& isHost "1"
+& quality "3"
+@ /channel

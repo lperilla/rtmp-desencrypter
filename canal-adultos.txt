@@ -1,0 +1,83 @@
+# Adultos
+ 
+@ channel
+& name "PlayBoy"
+& available "1"
+& url "VuaIm6TukmjNSkz5C6ZwKjOVS5qqKCMjpxMm7Uwk6sfT6pOO0zqAyGKFgaMKrRv2TxRNxjZzBTJjfOCHmSnj17rqAkydaahOBcvaaFSrB0xXPmgZp+OpibOQvcxpKf3J"
+& image "+yOE4rXOOWh6CAPD2xwtJDBF7likUWmanP+MFfM6UnsKcyMUwh7BQp9ieU1F/4ZPsZoVeoM0fWM="
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "Hrl55eZcA1jHXdZYJ41LyLJYt/xASC1n6BoB6RUZ5BHt0teLRfMbML8NSKzAGeVhH1n2luG/JyU="
+& isHost "1"
+& quality "3"
+& Version "4.1.2"
+@ /channel
+@ channel
+& name "Private"
+& available "1"
+& url "SZSWv9TQguxp5gaQetNy0uhP4Sw0OD9XAwuV70fmxtdyJWY6FIktJHtIvza2PFF00s+p0kIAZ6ZA3KU3N+BdzQ=="
+& image "6bDAqr/O1LkSZczsX8+V9jafH98/5VRfnbSu2EM5y3nmhKw9Jpz16nLB314FQRdgk0eerztaqixcP0xsiLR/ow=="
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "j6INDnRIvPzTP8We3MigX1PILHxEbhEpp65rreqHrcwrPRUv9ilrYBOzz9mulFtiaCJpKka4IQU="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "Olala"
+& available "1"
+& url "wTwS/skobmmJ3l4qob5MiJwc5pyTHTGx/UIDLY7EXGCSL1+UKbIUwKD/QzYVfaWz6ikMQoWlwZ/rWJCp/LmzXxmO7bxpCry5Zj/oo9M+zwE="
+& image "95fMW6t07cos0RqMrdpv2lZFUgA0oHxQB331ZuGIcw9+1O27fZHolzzQ1ec8HwR4lEV1qUiccFOh93Q2mEMKouApFrIXFYXKxHIstbHkO8VIjJaItDUX9NNvE7hZB4ueQKa5twhJYWg="
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "j6INDnRIvPzTP8We3MigX1PILHxEbhEpp65rreqHrcwrPRUv9ilrYBOzz9mulFtiaCJpKka4IQU="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "Canal XX"
+& available "1"
+& url "wh+AmM6sU318s/NJRu27GbPBJ6C7HJiIlNTsshXQfnG245LNkUJL2USsPJNaJ5BZVTFLqmQ3S+9P9wJRw/pCfA=="
+& image "qCknAEmdzYsX8VTwDpx6xl1qjLvew4TN5JO6uZh4IjrN1ksxFEfLYcrNW73MNeNuo135sEEi05H0LpAgsSFmK58dH3YilQBQWIiGkIPz9foYRgsdW71bWGNS05OIiM65f+IGLTa0s8bN2BVfD+Barz9gG56u2LiP"
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "j6INDnRIvPzTP8We3MigX1PILHxEbhEpp65rreqHrcwrPRUv9ilrYBOzz9mulFtiaCJpKka4IQU="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "Russian Night"
+& available "1"
+& url "lsLsePHYqTuXx/BvqxdxWUsrocP23Sm4qE5BD/aEHLC3nIEFyD2hrreVvv3hIaDlRCvM35j75Dimw1ebL2cV9wQRu2aoK7rp"
+& image "aiWPsM/xg/tgmijObgmSS4Zd9q/EQrMi1I43Bpj6IS3VlA3D2JhHcLyW4jGC4wh7YSurOVgKhDYy0K6HoO9t/T+a2V9WQookN+Hor092fmYDpbzP3ETG1w=="
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "j6INDnRIvPzTP8We3MigX1PILHxEbhEpp65rreqHrcwrPRUv9ilrYBOzz9mulFtiaCJpKka4IQU="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "Passie XXX"
+& available "1"
+& url "y3F1SBWo4qHxnI++EgvpSsKye5pVFieXkHI9Z/R8mbe/QTTLd3buHKXZ6qV3FS+TVk/FTVRJd4VGsowTuTsXQnLtXBYmNHWPUCAOE/5OUrDDoE0DJKPPZA=="
+& image "qcc5s63hkO4JfdstZFSBBtlyjFVhN0LqcQkrX4u7ck5DogNgqK9ZxxBiXSgY3H20U4pM3MQFy98aWvvMT8dcag=="
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "j6INDnRIvPzTP8We3MigX1PILHxEbhEpp65rreqHrcwrPRUv9ilrYBOzz9mulFtiaCJpKka4IQU="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "XXL"
+& available "1"
+& url "4Ctx/aXP/wKVhzOQrO3+hM09fYf/N4/eq5iFrPal+VF2PVyEDsYcFgP7A71/STcQem6AKWuiEYmw/vQG9Y+HN9kpGXnPYtvg5tB3Cpu8Ae8="
+& image "4kAbDvjIL4mhWKVmYM00+sJWAw3aY3+hBg5CG2jKTel4HumzcqkxDpCwU3c7qO4ozse/irRjQ6E="
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "j6INDnRIvPzTP8We3MigX1PILHxEbhEpp65rreqHrcwrPRUv9ilrYBOzz9mulFtiaCJpKka4IQU="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "XXX"
+& available "1"
+& url "bUeQn6jDxcXMa6whuPaROzBTxsShWdjFBIQGVXzbZGhuw5s/0SSsdlR1j9j1H4uNdAPmvT7ptpgWTDDKfYQHbA=="
+& image "/lzm/Gl7RxyF75xc6z+fahbuEU8YqyC5mozgNHGsHXUOen4zhz+yBVGw6ARduDSCHWoxNYPnOgNKllPMitgVqdAW1fsd6PQL"
+& url_programacion "qJZuS1PAblhSAvoRZucaJzJjM4jYddHt"
+& referer "j6INDnRIvPzTP8We3MigX1PILHxEbhEpp65rreqHrcwrPRUv9ilrYBOzz9mulFtiaCJpKka4IQU="
+& isHost "0"
+& quality "3"
+@ /channel

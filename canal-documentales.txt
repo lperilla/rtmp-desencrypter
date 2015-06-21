@@ -1,0 +1,123 @@
+# Documentales
+ 
+@ channel
+& name "Discovery Max"
+& available "1"
+& url "zEe1n5f0hOGdMbsDqWgMHmHWPENXcXQI1NHPu/k6jZoQZDUCyaNW/CaVMK8qtunLKjcmY+taRV44oRHneJVzhjHO9vZRioUN8pQWtD0Y0ZM3tjmF1r7eTuaXuh6/u6vV"
+& image "JPhqaxyp52SqgUag5HcZHZj5/2BpQjLUyMVoI8l9JMZN2Qj6QaGGRI46fPENO0hPOr9uf3cbKxMHb1sbDi9PGQ=="
+& url_programacion "7NB3yeyAW6kS419Vn0Qeza8qTRWbrxRjawFKem9vRduAUJw0tORkl60v6ZgMJ8msTzKjA2Pi/5mLAd46IWK8t0lRI/c3fQPNcPj2LN+sYMM="
+& referer "OeN2xDiJy7NB6nk8+XV+3QWDA88OobTeWxFjoTkYJZuLzsP1YMRA2FFArc2sYnRnQ1tpVVKi1CpnZgjasiXXEQ=="
+& isHost "1"
+& quality "3"
+& Version "4.1.2"
+@ /channel
+@ channel
+& name "Discovery Channel"
+& available "1"
+& url "6od5sWAWs9vM7HDgpyslStHNJdMMxhosrsHcgnmSNMHIeKQfF2DCYltDK13q8a0aGhb35UCSKL07ua5GDBlQhmdL4JPAUFjDKH3eWcW9d1pPnCxIUMLMK2IH0+N76X8P"
+& image "pH19Je5AnFjeforQt/7bHj0/8/yGmNbxyEGvEdOUxPECIWNMOSqnqWD2fhcmq6qI6LrwhafpOSGHz1f7wgOm0g=="
+& url_programacion "tKJMt8KJU//jmBvxrY93fK0IHEt3oih4"
+& referer "v/rDzkLgwqyCsB2y+UmYqxfTVQYi1wl5awB58C5BSXQ1dxPLtcZdLT1qT6S4IOQe1NIwD7Rt6F51sKz3HUQL/g=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "National Geographic"
+& available "1"
+& url "69MzTs+5ea4Ya+0+baLtOCnSOzKWTh7HJRof1q6h/sLNlAhBhJygA/slypHOvLR74O8M371EEmExSQdHaJrJ0++1twNCFvd+96xHwmutGSmsFZkYbLEJzEV51sqSBpZc"
+& image "8DnDxGimfKuUO8UVBWpYcZAYHPdpwPePgZcN3DlQO6grNiuiuSRLT+O/rycHtwk9OTqApQJZpsPdRL0Up38wFQ=="
+& url_programacion "wzpOqIv0C2NE359KSDwDp1KbUZ3BrAmCzv0qhE4VwvlPY/sMkMr7JY0evuRVHDXEIPeHZ5bpzXgR+yWvYXG3xknXNOdXb0S+ebtHzXh3yNA="
+& referer "WsingxMSvdxAwVNM3Mp/Nz67VSYq0Fct935k2JEcCNG3eSC1oePOxFKKqf2EmdlFjrsZvGS4DQ29imGeP5xLSQ=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "National Geographic Wild"
+& available "1"
+& url "kH5J0R45pU3+YqRiOabjU3NhTozED4S4mw07JVimfxN/irdYCmElx8L7Xe8EDbU+pVuVXWYVFcQTf6r3cJ9cQDgtkZBazh7cdfAgmkyrDm1J9fyFpPdXj0rQJ9YK9WXL"
+& image "kB1caPzV8ZFHPVSZqFftx+xi26Q4c13L1L4REdxUJkNSb9NJ2kCLzXPwYAb8MbcGp0jg8QrdAraXk3qco9HEg8JQkWvGTuTQ"
+& url_programacion "kKxF9/NBZBuJf0F9q9WzLZY4EiMamBA1jtijcW5DL/e6JfmYbncbXWRU9sZtRRDiRgp0hx5LA5Uj8dSGOb7e9Puh6SxjB1S9"
+& referer "07oq8wNV+kmr2NJ1Oi0QgNaBrf3sa6oZXSZrky5sDF0BQyaxC+zVGAT+Y+YDttmL"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Historia"
+& available "1"
+& url "o5ZM+HcLYh0VZv3LAdayl43Gg6yE5PT8RERdkJSqq+aJkmFMJ4Fx6MCzliWHaG/muwe3+QTyw/oF9xjVv+Kjzxy14Vqb1YpZdfcGzaaDrFYms0hslqfBng=="
+& image "kUZg+l+kbB1UcE8XqbHD20XREJO4xgOXbjxqDVE2blvjeP8Qv3cfK44AUQ68xU+AU1RG4SFsDZ8="
+& url_programacion "fqHt1vkI/Czzj+j9mRslYAVAKcx/d0pdIHnnqMv2cniEwvfq+xPSVkJmr80NCNIRGrrnThCPRqFhIg/lbYdDDjxRd/dvMFQR"
+& referer "4C9UKcHnF5DrMJO41JVkGNLJMX2z2iWVkdOT2DYeyuCtE+MJaHUfIwMiEUG+lIX0bV4LZKMPDwY="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Historia"
+& available "1"
+& url "fdpDnJB93KbT5W1ELSUZfY/Rmdc6//FTjBtThgDK8ypJSqUEMBZYiuqVGij/7aRJFKH68MSqBR/rvHnPth+DX+w4buiIBZDUcSCyc7t57QZ+5D1OLDPlZ4W7fWv4ZLVP"
+& image "lnk6YOkTJqo6Sc//P/KBUw/zrWP6qR44q7DvP9wM/XcwAGFRUGZLyyakd68kYdW1pp+5sHx1gAI="
+& url_programacion "efFzyibtPSeE4id3/Kh5sSHReE3RphneJyEv6/pjc6rlJ11sBr2sR/TBQdeefwGnGMuYGVNI5Cdumv5KOz8pO29WuMKSQQbV"
+& referer "zWsFzBcqwJef4fjFjh1dFQ2c0gsr0ihFOIht4DO9OSHKexpDVL4K6ENpuwI5eSRt1Hahh7lDmQJUj/O0yPTHDQ=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Odisea"
+& available "1"
+& url "XJl6M5nT2B81hpfqPES02R/B1FUEb+8IMQW/HDrtNx7uV/QYBhloSV1TmfGNg8BkLeJmfZBjDj6BjZPWa3CBpXjuMaV6E5z3GkuOsp8hd541ufPESnF97A=="
+& image "N69i+SXTjHa69SIjDUn8M+ayA1uOJ0BogHfFDoV1/KUcYaZCCF4c2SYthMLf4nCJDdWMjE2JoX0="
+& url_programacion "wS3peaTQOnwnaFszAYgLXCvWSevhNRpXYABYGhuhIwzAozT4tB+XvBbqD4uc9Dn+It/VWn+fFLn6oUptmSj25I1oq7l6SObr"
+& referer "LV31I6oakjlaQEpFWd6KqYtmGRqzeWv2LhszD+J6t3h02IxwwlntjkEuXYk9bIX5lxQl4WMXlqc="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Natura"
+& available "1"
+& url "BfLzzEhMRCpWYLvjNsYK8kO008lCNbl2rwNYl9Qk0Ye2XBGf3qDXPIFrMW0xBZlNuCjUwSAFWE/hQ/4gxkN5tHSfOav8esVGJATxxPblBWntg4S9RVSxFA=="
+& image "/ONv6L+DVBeIewEPVNUFOZjs/ydQoUAojRlT4Jrg48QNUuA+KElxRc2fYrHZoy2G"
+& url_programacion "QBX19Y/89p7g48nc+hJiYCyfYCQLdvo1"
+& referer "XT3fzFUrLpvflbW/aLLblMzLeuwAVK1JGn3P9V9w019VEk+kbwuLGXaczx1j8AO6nlFTOTbWE40="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Caza y Pesca"
+& available "1"
+& url "RXvlepnNvxJzqbYWUMkesNqlvGx43DMV48wp0ihgiCfp/xYSoDwvBVMeN9u38kKb6TzDkZzZI9YIt4U/U2br+f3IAGkQnuaibWv7+Gl6jdAEAVhaGnSE8PgNhr0jLl7A"
+& image "6ZJoVtJ81gFQOA3KrwicXK2ltYd+HmBT33u1rtbiq/B6L49C1j2VIQwrPkFY5Lv2sgTsyDxNEnM="
+& url_programacion "3z9qlulz4msOsFtEeB6A8+IFUrtI2YJ93ekq4UaJJqN7zJk14JRcwYRKU5yyU7sK0orCsAcS5hc9aKJlp8/SEcdJYtcszDui"
+& referer "5DmLdluJRyU0FlkBETUFYxnHjEzQc61Bc50E4e6Vomwh2zkmSX6D+SwDSDtMaPoRWCP8VpeBkMVSG37K5Av/Sw=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "A&E (Antigua Bio)"
+& available "1"
+& url "E5fiZva7fHlnocyDJAx0FeS4r5v1kpoazv7yuG8QJHFWnFZ5Puwvj5l5kGNYwA4qmImBC21Y6DeZ+jW921H35EIDlE9on7QVassY1mU7WuMJGv2dAgK1fQ=="
+& image "IRd9XuxLqYo4Gp4lTmZBnT19+k1+Wnc8ODtii6aMUZkyTxw+mchzMDUEJ9EyQWcD"
+& url_programacion "618EEKvKF16ascREQL1yeVnWXBS3wQuXRNNRNFLNcN9g2GM2oDW6KVcpZ9iX/6AzKZK5S+XdsOTra1Mod+6JDw=="
+& referer "2LO4zdFJVGwTU273uXk9mYCTOqgbBmNby84hpbJ8vy0R2M2/IwO+hgdwQzucEp4oaX1h9PhBj8M="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Canal Cocina"
+& available "1"
+& url "C66BF4o8qpGtcbf+47ExjE9rfGoGE1BIm1uu1v8vTeY9ICfylMz526tw/LwWgXx7CSIBIOVQo7XaDpsMOUGcy5bf5AA6hB7ctmaCIHlfQrc2hqulgA4/aA=="
+& image "I50gbbM5ffTST3RvzF4GjWb25yV6o+GdEX5MmCmTxngDpOh5Odlo6Ixvj1CT/YYiMmP9ejt1apQ="
+& url_programacion "6vGerwh/8jPU9fxnPqenxHYThq1QgAJ60mJFd0m00VeVkMwGEJ6Hh9WAxDTsSVyzyn+Htl7AmNPJcSNHrFpoHNCU5YACnU+T"
+& referer "vfb8prz9aBDnapeMF4dX9MUow1wNN/NST/9A66E1GRqKA+38ENpCfFW/OUVBGD+FvIpOvVcIc6Yr1EdkNcR/fQ=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Hogar Util"
+& available "1"
+& url "+/xLXXxGy8xLJLxP2KdHQM+sxs78zbSzrXxKn/0FHKxzxg87lYVdhWiPv2sFW0TlwGzJY9fvVHo6yh/LNbS9ikQ5VGS9gDNU"
+& image "Y1gIEJU/hvRYyn83tcZJH2AjWCwOanAoNw+Vz80D1PR9lxGzWnh9wEXYcpYyzxcIyiX1RB9q2+A="
+& url_programacion "oQIyFkvJrTzpphey44ktdLSP3PzCdYsp"
+& referer "QXzo8eTfsBg6JGoUzmO05g=="
+& isHost "0"
+& quality "4"
+@ /channel
