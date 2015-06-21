@@ -1,0 +1,240 @@
+# Deportes
+ 
+@ channel
+& name "Moto GP/F1"
+& available "1"
+& url "NVAQ0zFfMMElHzLKKKqJpd9AXeFbCPawQkcOa16AM8v21+DDdBmMle1Pid6xf5yVBHWjEh5ns98uTikeFv/6rNJMzFGfKE8Z57jAaaTWKZpY1U1wX9bFPQ=="
+& image "thDO9tR8yOA0BDEp4tAdMZ62mQTDXB1CT7d0SLW2emH3dswvt3xlRFeYdrscoyRT/6kTiFUgZCyl4GCHy9G00xpjKd7rE/P2VFIVTkIknPz7zC0Qg2PvFw=="
+& url_programacion "gXHbT09e51xxg6xlgly+nCcGhXvFc3TG"
+& referer "IGbhsYS8zB52nx9pxZs8IALVjMwKjgBqAZj4Kd4nLQye+MAipgh9oHJi5rprXLzh"
+& isHost "1"
+& quality "3"
+& Version "4.1.2"
+@ /channel
+@ channel
+& name "Moto GP/F1"
+& available "1"
+& url "hMqVsXXhDIy+9ZE0O8c6y66FPa+z3ZfeZ3c+qGZmsV1fZ3HJAofiJ63DtdJrn7qgQeBmYBgb751YaNH/JtR5kU5FMNm48XuB/pn0RzfNNqTk+doQBI8aF/yFBJa+sI/guQkl3ePpv1jdkgYmzDndkJnEBddBLBU5VQCBBmtR96GAzRHcaKqpsHql5YwTFlVpYyuzVQh7hadgHMb0K8vFBKfkz3gjAy+2GKN6EWcw4QvWgGTwqxroqVn2orRkompYNi0V9KMvtTrEW5Aug07OkR1sA/49Bs2w1oz+IpQvO7HujaVrVoRjpErEHqsQYYOzcl07sEG7YWVHXM7VBVsQ6vvV5myOjco64czcRQ+uejE="
+& image "thDO9tR8yOA0BDEp4tAdMZ62mQTDXB1CT7d0SLW2emH3dswvt3xlRFeYdrscoyRT/6kTiFUgZCyl4GCHy9G00xpjKd7rE/P2VFIVTkIknPz7zC0Qg2PvFw=="
+& url_programacion "gXHbT09e51xxg6xlgly+nCcGhXvFc3TG"
+& referer "2A+ZxoPQYNd6QcApCZqBoybazf/ksJGkNZiv5BBuIuNTE5ngOnouu6xaO58W6deN/gTUR/wpZOTx6NJhkB6YcQ=="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "Moto GP/F1"
+& available "1"
+& url "R2eXTjIwBBVsXiB6pi9U77IZYDSfca1d5J5lZdhRv2m514guiR3+BOXdm2zPM2b5+QojrWgM+Yeje7WS3Ca7TOGSYDvt38ixfq7eAOtPuYDFcOHAtCpU4AadtzEMsezT"
+& image "thDO9tR8yOA0BDEp4tAdMZ62mQTDXB1CT7d0SLW2emH3dswvt3xlRFeYdrscoyRT/6kTiFUgZCyl4GCHy9G00xpjKd7rE/P2VFIVTkIknPz7zC0Qg2PvFw=="
+& url_programacion "gXHbT09e51xxg6xlgly+nCcGhXvFc3TG"
+& referer "l5GwQQZpKqWtyhqAlbfjYKJISdCVeu1+rzd3Yb5S1t+UdXqElfRJ++JXGBoTNTkCVjoDkA56+2ZyZyQYMxM0fQ=="
+& isHost "1"
+& quality "3"
+@ /channel
+ 
+@ channel
+& name "ESPN ES"
+& available "1"
+& url "fuXJlC2GrK/QEifj+8pdGA1MctklOgjn7aaUrnPhsL0T4WVIO562j8KZcDE/GxWx1pdiBfNytawy4E7k5hZQ9A=="
+& image "PCn+rmcPM6KYU3ERX5s4jbhjyDYMjtFAxv7Hlw+dcUxjHdD5eJqmcCRn7F9qFvGA"
+& url_programacion "ZWJIKW+X3mlnl6i2MRBlok3u53ET3HbV"
+& referer "uOKErqm+7a+KEes8Qfj8uX5o4Ghd8HDnnZhUz6kqQ0UxRuHGSSIcc0lTjsdCG2uVgAnKWm08GbEzKzhn+nFFu/+fkxCh9k2/NmvDKSnvUKg="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "Bein Sport ES"
+& available "1"
+& url "7NnPCBDOCap27jXgUh+VSR1V0RehjLdZ2km5sF81ylV4FcKJNfU5XYU9Mz/pm9sqUaXmVlX0iL1V3L3Js8uhN/2eQPTsGVj3RUpDcDbWrcrIlIE5ymKUGFrJZGz9Eu3vdLG3F+Y2xUsiqlgQsIaCxRIF3FX4CzvD"
+& image "NRYSvNUw92+vbgWM4AoVpeW8Lo5ApspGYMGJYwDU5h9sTv1s/Ninm1kelnY3tjSxaesDBoAi8J0="
+& url_programacion "Rr4T8OJSaC4iCzvhLc25ZFEIkxRq195T"
+& referer "U79YZM5GmmFy4FyEMgX1jf64u5U3mTBcsoPaL2wmChv3PYeHryxw9tHnIU73buuK3nSEPgqDxjwjJJb7IN/JFg=="
+& isHost "0"
+& quality "4"
+@ /channel
+ 
+ 
+@ channel
+& name "Canal+ Liga Liga BBVA"
+& available "1"
+& url "zCfU5/Chz+kIiFxkC8mVdnt7+cx2ei9/EcoAamvdSxXJ3V6RivzQ8JYqwoc5vRLjbBwd1t6bBvH9BcS7emiR+aZuCvJ+25tEvCSvxEehhG9fxQb0/pamUTbc1m8dlXav"
+& image "zAs9w0I26FGG3eV+TmVck6viNh7cynV4wRKH1Zi+efJQP836KWPh6wVNxNoKittzUXwRRQqZwro33qY3nLiGZw=="
+& url_programacion "ijV4cU3LG1ksT+hqIjKhs+J59tmcPBKBImEpRU228HiOSVejIfube49iSYmYAWjlE8+XaQqjkoy1QlMu831B9m2YZriYHzs+"
+& referer "U79YZM5GmmFy4FyEMgX1jf64u5U3mTBcsoPaL2wmChv3PYeHryxw9tHnIU73buuK3nSEPgqDxjwjJJb7IN/JFg=="
+& isHost "1"
+& quality "4"
+@ /channel
+@ channel
+& name "Canal+ Liga Liga BBVA"
+& available "1"
+& url "fy9oeoM/ktBKP9gzPuGO35v/TptQyYijt7K+3+BJm3PYLVByP6ZNuHrXMLKm2gxv32Ep/NbIl05LjWmT8kQp1dwDrcgpaQ4HIuaZpMmbxXJM1WTpkr/ihQ4c783WF/OhApKUDdViQSmkJQse3cuo1WBkMgsUtjvibth/N23Z2h3pVIw3yHlyekA6b4vFVl0gwYynhvroTrz0AypVtj4gpzYGe/LUvCqUFj5+IXVkOO7pItnIcxvkSPU2UvyxcS87zQydPiZCRHrEkBjpRICVXQ=="
+& image "zAs9w0I26FGG3eV+TmVck6viNh7cynV4wRKH1Zi+efJQP836KWPh6wVNxNoKittzUXwRRQqZwro33qY3nLiGZw=="
+& url_programacion "ijV4cU3LG1ksT+hqIjKhs+J59tmcPBKBImEpRU228HiOSVejIfube49iSYmYAWjlE8+XaQqjkoy1QlMu831B9m2YZriYHzs+"
+& referer "zYTs2bfodQOkRsEHsSnmkN+cKooydNr+1HPT72JO7eLnba3tpv06neHNnLZ1b7upyoXoaWAQtimvOXbzQh7qbw=="
+& isHost "0"
+& quality "4"
+@ /channel
+@ channel
+& name "Canal+ Liga de C."
+& available "1"
+& url "DA0opliqkxnuRmKaUihT6jchqxJGL97PIyE6vY+J6INKs/IDEAGU99PUpz+KKVsFgs5WWTWnX/FrfH5Z6nLk+wGUMiXKt+C+iOoUTSLCfDy+cTpJghBtFGEIBks4WTYx"
+& image "wlEd/wlR/L3bf0VBi3mkkrgKhKUTGnwvy8ZEbSakJDNDtNmgljL4/R6SGcq7IjvraLp48btOrWPr6U0WpXBHf/82aiUExvbj"
+& url_programacion "t6W1chKyqjAo1Xe2BdRfEa/1xtc6B6F2aAVGir79tQfKjtAOojqJe0+Wq5w0yJ7gPImAxVerhvPyckQ1QCApT8IKYWc07jipr4zKusbG9XZJ1o5VaIeovg=="
+& referer "ZoybKCwAvpUJ3GM48T4g1To1M18v+Aa9C073jyzmXPwoeCXtmDDhNDqL2vUPHhZZ"
+& isHost "1"
+& quality "3"
+@ /channel
+ 
+ 
+@ channel
+& name "Canal+ Liga (SOP)"
+& available "1"
+& url "sop://broker.sopcast.com:3912/139688"
+& image "zAs9w0I26FGG3eV+TmVck6viNh7cynV4wRKH1Zi+efJQP836KWPh6wVNxNoKittzUXwRRQqZwro33qY3nLiGZw=="
+& url_programacion "ijV4cU3LG1ksT+hqIjKhs+J59tmcPBKBImEpRU228HiOSVejIfube49iSYmYAWjlE8+XaQqjkoy1QlMu831B9m2YZriYHzs+"
+& referer "3a+WR5tuxseGNN4zyO0qblrCYypHqSP3CiBk4Sf8vYrHnS4L/zgE5a9D0S0GvKV0hGsK11hKw1o="
+& isHost "0"
+& quality "4"
+@ /channel
+@ channel
+& name "Canal+ Liga (SOP)"
+& available "1"
+& url "sop://broker.sopcast.com:3912/255768"
+& image "zAs9w0I26FGG3eV+TmVck6viNh7cynV4wRKH1Zi+efJQP836KWPh6wVNxNoKittzUXwRRQqZwro33qY3nLiGZw=="
+& url_programacion "ijV4cU3LG1ksT+hqIjKhs+J59tmcPBKBImEpRU228HiOSVejIfube49iSYmYAWjlE8+XaQqjkoy1QlMu831B9m2YZriYHzs+"
+& referer "3a+WR5tuxseGNN4zyO0qblrCYypHqSP3CiBk4Sf8vYrHnS4L/zgE5a9D0S0GvKV0hGsK11hKw1o="
+& isHost "0"
+& quality "4"
+@ /channel
+ 
+@ channel
+& name "Gol TV"
+& available "1"
+& url "hiXj9aZWfgpawHZNVL3PA72nMrgsrbI4syFKcc/xX22g3fIV+C9x1bU+nCqY7BQFikOc5QviBy0XWFh+kPTKka3xszBDhfA5P7rU58hNAqIgHiBgfRUufBJMghGlAyZi"
+& image "c71SWocUWAmhAnkvlCgGzKKvdbEPGHZpUEFQTUsY3g3FK33sNsnQdpS0iZO9458mWLoGs59BuQY="
+& url_programacion "Oc15k9Qo7HAHuk7Lu3bzioMSCeUQGs3f"
+& referer "3xQdRccGpbBPcxXLetcgEwJtKiM5wPe/1MShYHD2Xr4W2sYAQRJ+lDQ0l/2NroI+GNIN29nqq4U="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Gol TV"
+& available "1"
+& url "xD2kbBxsD3J6APDt9wf3OLdfwCLHzt2+tbX4TevDV3in1BJu1ag4QSQ11jAUzqe9D+jPkQ1KNJZTYhQNZOMszUWfdfbCca2U14bdWX/qxFWoisPke+pQsQ=="
+& image "c71SWocUWAmhAnkvlCgGzKKvdbEPGHZpUEFQTUsY3g3FK33sNsnQdpS0iZO9458mWLoGs59BuQY="
+& url_programacion "Oc15k9Qo7HAHuk7Lu3bzioMSCeUQGs3f"
+& referer "W56BPK5EdPtl4NUVi8jjcs3xouffuJumZmO/rNwLzR+wkZtYAE/IOAKYbjKEIrqnZLZ82rwRGDs="
+& isHost "1"
+& quality "3"
+@ /channel
+ 
+@ channel
+& name "Canal+ Deportes"
+& available "1"
+& url "fHuemMTWStVvZNY9TYfLDUEF5a2WQa2MTAQrZB24BpGWJs4ElJPLfrlWEUAiEfLTNQOvvX/VkbZeBCPP8+iAIquVL27zXiM2vmlGLQLYNiDdjMTMVuKOcp6lWv56tzOs"
+& image "iG6nBCIosNYvZwVdSjV/FF1SiCFLj6Nhi3MlbPuEJ/A4yxO5So/ePwyjRdfplDq2IG3IDfeuhdDB8jmBois4rQ=="
+& url_programacion "8xbPz5OrH+XGSEyS5VRfF/cLCeJ0pp5MZWDgrMIOeDkKf66ODXKBp6JwRDFr6uII51VdXPPMu0MB1jYV+4mSAXQyaF6QhbXsMcgGuHi2zE8="
+& referer "CkokOVtZI1UGb7zVrZ1wpNCvFJpmbywco0zmOMymG8MrPEr1iLj91yg3vs0xlaqScfJI8AMpEENd6lsb22xFKZOwruwKq15E"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Canal+ Deportes"
+& available "1"
+& url "s3Gn+kv4fMF3yv6KejTWUrdVD6OmCD0VhyXWnDTWOQUFtUeVSwEXTR7bdM38I1GazbgLXxpMYvb4GkQRst6J0H9bfB0kBl9rVvo6QQc6H8eKyZo0RgFLjA=="
+& image "iG6nBCIosNYvZwVdSjV/FF1SiCFLj6Nhi3MlbPuEJ/A4yxO5So/ePwyjRdfplDq2IG3IDfeuhdDB8jmBois4rQ=="
+& url_programacion "8xbPz5OrH+XGSEyS5VRfF/cLCeJ0pp5MZWDgrMIOeDkKf66ODXKBp6JwRDFr6uII51VdXPPMu0MB1jYV+4mSAXQyaF6QhbXsMcgGuHi2zE8="
+& referer "gdhdM+yGETxdOqhVbATChZSqfsm5KRLIFNVvhZmF+tAWzFSOdnfQuBqcAdbvMTtq"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Canal+ Deportes 2"
+& available "1"
+& url "zVL8KOSkLd3fqeIK1Xoa3HbPrq2whT3f+OsVAqX6KOcD6UNTquXCaSRtXCavdstA/qplzs2Xrc/2a7o8RUPejNxAQ+hWDdy4ncJyoi6suCdAF6jqP+4pbbshnQwuX7kR"
+& image "xEKGvRzGhofdopgYCTw6LeTjQBWiA6eg5ArjASLtawPIrzZDysophQc6lyDHxBAezThEAQKExd3uMr7Ui600AUisgNkPSqeZ"
+& url_programacion "J2DmOE7+g6dDzwXL8seM4TYR0VwnUS5kK8tG0ujCTrSIETgWBC+uWOfrYs9ZXDiVz7dZ/3qFYdyTuXXTL4vF+s9Xnc7Kn5TGPucuXM2Qnmo="
+& referer "5JUN8BzQy6PMCrF/sg3RZrqNjHnhiqr916kK9jbBeS8eS4e+Kat0V8iZhEoqOxlwfaSW6SH4AxqocXNyqKlhpQ=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Canal+ Futbol"
+& available "1"
+& url "uitScnYdbmpdpyqtPQllVtfORRyBOpsyT9bMTjYM3i0W2XeraJ9ym34N6QiyV7NH7IGZnjClEFTXljZwedDwFZI45j9WZklfCavtuyc3C0zoD5W7QqJAmJhPi8ihE5ds"
+& image "YQ31SSHfisSv8AoGm+jOpbKW9IBIPpFra6r1Ixlsw7AJ2CsPKTcCryLLrhIZYO+OROm+h+vu6ITEFYnqJwpkJQ=="
+& url_programacion "+9JHY2rfOgRBnVfB547Mk/UkrcpAsBhpFG4H2bsFuKxbbZ0fERXip6uYuRxT+G6IbMTEFmy+MPCPQDyWMoZmNvfFqsAfL0dj"
+& referer "uMeufWluOINXEjYjZt1DDN69QCjJuzGNZAOBYqOOCHUdbWC57hkxcZV9mds2Tf7kwn6GyKa59L+eUtJaOmlMfw=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Canal+ Futbol"
+& available "1"
+& url "8ca/+rF+lR40DOU+JEXwRVMOT3nUrmeqTxg5c3S2VQZWifc/co+vsuSxArAJTW/cC0vgVvZrgQhcarGRMEgQaddtsodltCyBUN9CjvBrZicxAFuOUtSL9g=="
+& image "YQ31SSHfisSv8AoGm+jOpbKW9IBIPpFra6r1Ixlsw7AJ2CsPKTcCryLLrhIZYO+OROm+h+vu6ITEFYnqJwpkJQ=="
+& url_programacion "+9JHY2rfOgRBnVfB547Mk/UkrcpAsBhpFG4H2bsFuKxbbZ0fERXip6uYuRxT+G6IbMTEFmy+MPCPQDyWMoZmNvfFqsAfL0dj"
+& referer "PBI+0r+Wo5mMiiUFKSTWS6kpuaBv7JjCjBob4ulU8nSFDBtzOQZqKI+fRbCI41gN"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Canal+ Golf"
+& available "1"
+& url "KlIG3Yu9ri/bd7Zq64ATSVzWxC/zDrG0cpV51Z7FTAgvS+kQTr8b52yd5HCE9j9b2jIBEA7s9Z2oQCEMBIumoUdG3RJk5KpbXB4JTonMrrGqdIgyQNK/Ow6WUaAdL3Mb19BV9vd7YxY="
+& image "E44Y5AXbVsDwYGvj74hS56mjUGFqe+W76IMv+e5/9wNhjWqZfj/B4AO5uNL/lEAGylT5SMqy2xgRk0rLlfZ4MA=="
+& url_programacion "b6dZ5rJjtSu75cdQs3gYl9A+/RTixfZV"
+& referer "mDCSztjJg/uwLFeMLHnU5TwZCU4GF2JOdA/ZhQmtNC23vEFMbfmq62/DJDuxBCI8sENhbniNapbAL6asGHBTQA=="
+& isHost "1"
+& quality "2"
+@ /channel
+@ channel
+& name "Real Madrid TV"
+& available "1"
+& url "cao1xUnfeK8C102u+ioy7/FR0Mkfa5on5+Hm5qgIPaGp1zKHCzCh4kn9rwK0bEn1Tz3xHOmmOXr3e/3wws1bc7P3f5e6SmkrZmrhjJKz8Wk="
+& image "S7h4R8MTtwzAu66Rec3KDFpZHSdsnAxmCGrhn8aYgafdsbc7jPXrBdjMX4QbxXeh6P1muqHnTQSunRxMfp8QHg=="
+& url_programacion "go6frAY0Iauc0qoIMh/4YeD81jEOWi9gVkoKvdq6jzd79BWs3WnHm96WBYQgPFdNsIhNGo1y3bvBwqly0vI8UskijZP+nbgfJC9PebEMHvo="
+& referer "dUkXgr/QhXm6JA36dAmszTYCjS+48BdVCak1bEbpeUr3DfwpeHutyx2j0vxSKtzYt8mOFG4saokKKLYz+TaQfg=="
+& isHost "0"
+& quality "3"
+@ /channel
+@ channel
+& name "Real Madrid TV"
+& available "1"
+& url "WDWS5wPjT9YqE3CvhlfcgfXxTcef+1izFNsR20/5uupbOscRyEgMtRcy72dWAeH2+rgncp5liw8N3BgbYgPJUD3me8Vf570h/7m5YycqrJwZzxhYRo5MhQKJ4tqG1QLt"
+& image "S7h4R8MTtwzAu66Rec3KDFpZHSdsnAxmCGrhn8aYgafdsbc7jPXrBdjMX4QbxXeh6P1muqHnTQSunRxMfp8QHg=="
+& url_programacion "go6frAY0Iauc0qoIMh/4YeD81jEOWi9gVkoKvdq6jzd79BWs3WnHm96WBYQgPFdNsIhNGo1y3bvBwqly0vI8UskijZP+nbgfJC9PebEMHvo="
+& referer "dUkXgr/QhXm6JA36dAmszTYCjS+48BdVCak1bEbpeUr3DfwpeHutyx2j0vxSKtzYt8mOFG4saokKKLYz+TaQfg=="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Barca TV"
+& available "1"
+& url "4By+6maFuZM72P2GINhCQN3i+gjdHCXmpxict2zoQ0NKmBRLbUqOOiV4dZVZQ6lV2eClK6LKG8uQdrcxpEUWKiapEkd8UdNDQgsoa+JUfQJx/N+iZ/kybw=="
+& image "On/Xr6/l8MGHqLfkOTzkoKkzb3KGKe6L0B6M6U/jsauhJoZgwgWDEwmH/ab4lsntQA5xhrGS3cw="
+& url_programacion "PH9/dm6w+Anv5DEjjPgUARVamC0cX2Pn3QAZQPdPipskzfK39+5yQ54UdfddVGcwT0bst7EuXEd7BL1ynND76V9J59xqK438"
+& referer "n6G5ZvbCxXos7TbyNA5Ee+rNnvRtooIVS0MUdiSBTlKfLnK3vzintvYvvVkfFcQNV1TgrYyCn5Y="
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Sportmania"
+& available "1"
+& url "TXC5Wq2V1hfBITLe/y0KygSkb5XPznk7dRVzLzFDl3D9U30SiCc1nUh74nW9ty8ZgpgqvbUdBuqfDp7k1qetcwCmEV7OzkTahmyk0dY3iJDpBg0gtU73+4JTmi02vDBj"
+& image "RHZRsXj9AJw6k2GjY8Hii1cIYSFxu2ieYe5bRcaJRgiAmwahgPleoym8PN4F6XFFyJ8h/GffKT4="
+& url_programacion "KL+3hc9UoWKfN1406c+XCSjYa5z8AC392xWFO3gRMYWnaStlDW9K3tQzN1TSctKVYI/5dr7reGZQxJ1aJ0hxAAwgVz7Rjnc1"
+& referer "ytq+luZbyweAPER5aGxeaaD0NNvx1nOZLcPTS0Ii5pAOsZ4jQsjnA3ydMicjJ7Dzm5Ufm0iO2wr8VZd7Z6fDJtMkjD6w4rIj"
+& isHost "1"
+& quality "3"
+@ /channel
+@ channel
+& name "Teledeporte"
+& available "1"
+& url "8yTLbvcWFslPAzoaBipjkbysZrlYd9tmGWzf/WlHWEaxS+fonaD7w7cVrooAnXfcxuaCoNw1f+MWFmLbUlzn3w=="
+& image "rEnNgI4QDJ52Zd0lAW7DAtojIlEUVH4tZP7AZ8HGxS47QyPrumhZ149ab/qiRthU"
+& url_programacion "rOI/fmNPn0ErUPJKq3MJdB20leR20jQb"
+& referer "Eg25glVTOoNHbXTHUs+zTTyyRFaWrFMX"
+& isHost "0"
+& quality "3"
+@ /channel
