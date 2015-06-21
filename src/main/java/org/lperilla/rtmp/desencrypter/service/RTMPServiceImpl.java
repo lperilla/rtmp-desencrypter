@@ -89,10 +89,10 @@ public class RTMPServiceImpl {
 				}
 			} catch (FileNotFoundException e) {
 				logger.error(e.getMessage(), e);
-				new Exception(e);
+				new Exception(e.getMessage(), e);
 			} catch (IOException e) {
 				logger.error(e.getMessage(), e);
-				new Exception(e);
+				new Exception(e.getMessage(), e);
 			} finally {
 				try {
 					if (bufferedReader != null)
@@ -103,6 +103,7 @@ public class RTMPServiceImpl {
 
 				} catch (IOException e) {
 					logger.error(e.getMessage(), e);
+					new Exception(e.getMessage(), e);
 				}
 			}
 
@@ -134,16 +135,36 @@ public class RTMPServiceImpl {
 				bean.setAvailable(value);
 				break;
 			case 3:
-				bean.setUrl(basicTextEncryptor.decrypt(value));
+				try {
+					bean.setUrl(basicTextEncryptor.decrypt(value));
+				} catch (Exception e) {
+					logger.warn(String.format("Error al intentar desencriptar el valor '%s'", value));
+					bean.setUrl(value);
+				}
 				break;
 			case 4:
-				bean.setUrlImage(basicTextEncryptor.decrypt(value));
+				try {
+					bean.setUrlImage(basicTextEncryptor.decrypt(value));
+				} catch (Exception e) {
+					logger.warn(String.format("Error al intentar desencriptar el valor '%s'", value));
+					bean.setUrlImage(value);
+				}
 				break;
 			case 5:
-				bean.setUrlProgramming(basicTextEncryptor.decrypt(value));
+				try {
+					bean.setUrlProgramming(basicTextEncryptor.decrypt(value));
+				} catch (Exception e) {
+					logger.warn(String.format("Error al intentar desencriptar el valor '%s'", value));
+					bean.setUrlProgramming(value);
+				}
 				break;
 			case 6:
-				bean.setReferer(basicTextEncryptor.decrypt(value));
+				try {
+					bean.setReferer(basicTextEncryptor.decrypt(value));
+				} catch (Exception e) {
+					logger.warn(String.format("Error al intentar desencriptar el valor '%s'", value));
+					bean.setReferer(value);
+				}
 				break;
 			case 7:
 				bean.setHost(value);

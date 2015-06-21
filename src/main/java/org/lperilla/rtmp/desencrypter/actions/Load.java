@@ -58,7 +58,7 @@ public class Load implements Command {
 				}
 			} catch (Exception ex) {
 				logger.error(ex);
-				GuiPackage.showErrorMessage(ex.getMessage(), "Error when load File");
+				GuiPackage.showErrorMessage(ex.toString(), "Error when load File");
 			}
 		}
 	}
