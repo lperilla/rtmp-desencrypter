@@ -24,6 +24,8 @@ public final class ActionNames {
 
 	public static final String EXIT = "exit";
 
+	public static final String QR_CODE_GENERATOR = "qr_code_generator";
+
 	private ActionNames() {
 	}
 }

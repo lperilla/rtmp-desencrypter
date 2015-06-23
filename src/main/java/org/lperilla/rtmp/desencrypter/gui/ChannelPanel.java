@@ -32,7 +32,11 @@ public class ChannelPanel extends JPanel implements ActionListener {
 
 	private JButton executeBtn;
 
-	private JPanel infoPnl;
+	private JButton qrcodeBtn;
+
+	private JPanel infoPanel;
+
+	private JPanel buttonPanel;
 
 	private JLabeledTextField channelTxf;
 
@@ -62,16 +66,22 @@ public class ChannelPanel extends JPanel implements ActionListener {
 		this.getChannelTxf().setText(this.getChannel().getUrl());
 		this.getProgrammingTxf().setText(this.getChannel().getUrlProgramming());
 
-		this.getInfoPnl().add(titleLabel);
-		this.getInfoPnl().add(this.getChannelTxf());
-		this.getInfoPnl().add(this.getProgrammingTxf());
-		this.getInfoPnl().add(this.getExecuteBtn());
+		// Panel de contenido
+		this.getInfoPanel().add(titleLabel);
+		this.getInfoPanel().add(this.getChannelTxf());
+		this.getInfoPanel().add(this.getProgrammingTxf());
+
+		// Panel de Botones
+		this.getButtonPanel().add(this.getExecuteBtn());
+		this.getButtonPanel().add(this.getQrcodeBtn());
 
 		this.setBorder(BorderFactory.createEmptyBorder(0, 10, 10, 0));
 		this.add(Box.createHorizontalGlue());
 
 		this.add(new JLabel(Util.getLogoChannel(this.getChannel().getUrlImage()), JLabel.CENTER), BorderLayout.WEST);
-		this.add(this.getInfoPnl(), BorderLayout.CENTER);
+		this.add(this.getInfoPanel(), BorderLayout.CENTER);
+		this.add(this.getButtonPanel(), BorderLayout.SOUTH);
+
 	}
 
 	public ChannelBean getChannel() {
@@ -82,35 +92,44 @@ public class ChannelPanel extends JPanel implements ActionListener {
 		this.channel = channel;
 	}
 
-	public JPanel getInfoPnl() {
-		if (this.infoPnl == null) {
-			this.infoPnl = new JPanel();
-			this.infoPnl.setLayout(new BoxLayout(this.infoPnl, BoxLayout.Y_AXIS));
-			this.infoPnl.setBorder(BorderFactory.createEmptyBorder(0, 10, 10, 10));
-			this.infoPnl.add(Box.createHorizontalGlue());
+	public JPanel getInfoPanel() {
+		if (this.infoPanel == null) {
+			this.infoPanel = new JPanel();
+			this.infoPanel.setLayout(new BoxLayout(this.infoPanel, BoxLayout.Y_AXIS));
+			this.infoPanel.setBorder(BorderFactory.createEmptyBorder(0, 10, 10, 10));
+			this.infoPanel.add(Box.createHorizontalGlue());
 		}
-		return infoPnl;
+		return infoPanel;
+	}
+
+	public JPanel getButtonPanel() {
+		if (this.buttonPanel == null) {
+			this.buttonPanel = new JPanel();
+			this.buttonPanel.setLayout(new BoxLayout(this.buttonPanel, BoxLayout.X_AXIS));
+			this.buttonPanel.setBorder(BorderFactory.createEmptyBorder(0, 10, 10, 10));
+			this.buttonPanel.add(Box.createHorizontalGlue());
+		}
+		return buttonPanel;
 	}
 
 	public JButton getExecuteBtn() {
 		if (this.executeBtn == null) {
 			this.executeBtn = new JButton("Ver streaming");
-			this.executeBtn.setActionCommand(ActionNames.EXECUTE_STREAMING);
 			this.executeBtn.addActionListener(this);
+			this.executeBtn.setAlignmentX(Component.CENTER_ALIGNMENT);
+			this.executeBtn.setActionCommand(ActionNames.EXECUTE_STREAMING);
 		}
 		return executeBtn;
 	}
 
-	public void setExecuteBtn(JButton executeBtn) {
-		this.executeBtn = executeBtn;
-	}
-
-	public void actionPerformed(ActionEvent e) {
-		if (e.getSource() == this.getExecuteBtn()) {
-			GuiPackage.getInstance().setChannelPanel(this);
-			logger.info(String.format("executing vlc player: vlc -vvv %s", this.getChannel().getUrl()));
-			ActionRouter.getInstance().actionPerformed(new ActionEvent(e, e.getID(), e.getActionCommand()));
+	public JButton getQrcodeBtn() {
+		if (this.qrcodeBtn == null) {
+			this.qrcodeBtn = new JButton("QR Code");
+			this.qrcodeBtn.addActionListener(this);
+			this.qrcodeBtn.setAlignmentX(Component.CENTER_ALIGNMENT);
+			this.qrcodeBtn.setActionCommand(ActionNames.QR_CODE_GENERATOR);
 		}
+		return qrcodeBtn;
 	}
 
 	public JLabeledTextField getChannelTxf() {
@@ -135,8 +154,15 @@ public class ChannelPanel extends JPanel implements ActionListener {
 
 	public void setBackground(Color color) {
 		super.setBackground(color);
-		this.getInfoPnl().setBackground(color);
 		this.getChannelTxf().setBackground(color);
 		this.getProgrammingTxf().setBackground(color);
+		this.getInfoPanel().setBackground(color);
+		this.getButtonPanel().setBackground(color);
 	}
+
+	public void actionPerformed(ActionEvent e) {
+		GuiPackage.getInstance().setChannelPanel(this);
+		ActionRouter.getInstance().actionPerformed(new ActionEvent(e, e.getID(), e.getActionCommand()));
+	}
+
 }
